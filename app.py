@@ -678,4 +678,4 @@ Built with Python & Streamlit 🤖
 
 </div>
 """, unsafe_allow_html=True)
-```
+
